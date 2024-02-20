@@ -1,0 +1,61 @@
+﻿@page "/detail/{ID}"
+@inject NavigationManager navigation
+@using GreatLibrary.Data
+<div class="card card-style mt-4" style="background-image:url(@Story.Item[0].LinkImage); height :400px">
+    <div class="card-top mt-3 pb-5 ps-3">
+        <a href="#" data-back-button class="icon icon-s bg-theme rounded-xl float-start me-3"><i class="fa color-theme fa-arrow-left"></i></a>
+        <a href="#" data-menu="menu-share" class="icon icon-s bg-theme rounded-xl float-end me-3"><i class="fa color-theme fa-share-alt"></i></a>
+        <a href="#" data-menu="menu-heart" class="icon icon-s bg-theme rounded-xl float-end me-2"><i class="fa color-red-dark fa-bookmark"></i></a>
+    </div>
+    <div class="card-bottom pb-5 px-3">
+        <h1 class="color-white">
+            @Story.Item[0].TitleTruyen
+        </h1>
+    </div>
+    <div class="card-overlay bg-gradient"></div>
+</div>
+<div class="card card-style mt-4" style="z-index:5;">
+    <div class="content">
+        <p class="mb-n1 font-700 color-highlight">Tác giả</p>
+        <h2>@Story.Item[0].Author</h2>
+        <p class="pt-2">
+            @(((MarkupString)@Story.Item[0].Description))
+        </p>
+        @*  <div class="d-flex">
+        <a href="#" class="mx-auto shareToFacebook icon icon-xs rounded-sm bg-facebook"><i class="fab fa-facebook-f"></i></a>
+        <a href="#" class="mx-auto shareToTwitter icon icon-xs rounded-sm bg-twitter"><i class="fab fa-twitter"></i></a>
+        <a href="#" class="mx-auto shareToWhatsApp icon icon-xs rounded-sm bg-whatsapp"><i class="fab fa-whatsapp"></i></a>
+        <a href="#" class="mx-auto shareToLinkedIn icon icon-xs rounded-sm bg-linkedin"><i class="fab fa-linkedin-in"></i></a>
+        <a href="#" class="mx-auto shareToMail icon icon-xs rounded-sm bg-mail"><i class="fa fa-envelope"></i></a>
+        </div> *@
+
+        <div class="divider mt-4"></div>
+        <div class="row me-0 ms-0">
+            <div class="col-6">
+                <a href="#" class="btn btn-m btn-full mb-3 rounded-xl text-uppercase font-700 shadow-s bg-teal-light">Lưu</a>
+            </div>
+            <div class="col-6">
+                <a href="#" @onclick="GoToDetail" class="btn btn-m btn-full mb-3 rounded-xl text-uppercase font-700 shadow-s bg-blue-dark">Đọc</a>
+            </div>
+
+
+
+        </div>
+    </div>
+</div>
+@code {
+    [Parameter]
+    public string ID { get; set; }
+    ListItem Story;
+    DB.API aPi = new DB.API();
+    protected override async Task OnInitializedAsync()
+    {
+        Story = await aPi.ItemGet(ID);
+        await InvokeAsync(StateHasChanged);
+        await base.OnInitializedAsync();
+    }
+    void GoToDetail()
+    {
+        navigation.NavigateTo("/detailread/" + ID + "/0");
+    }
+}

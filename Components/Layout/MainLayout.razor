@@ -1,0 +1,43 @@
+﻿@inherits LayoutComponentBase
+@inject IJSRuntime jsruntime
+<CascadingValue Value="this">
+
+    <div id="page">
+        @if (ShowcControl)
+        {
+            <Header></Header>
+            <Footer></Footer>
+            <div class="page-title page-title-fixed">
+                <h1>Đại Thư Viện</h1>
+                <a href="#" class="page-title-icon shadow-xl bg-theme color-theme" data-menu="menu-main"><i class="fa fa-bars"></i></a>
+            </div>
+            <div class="page-title-clear"></div>
+        }
+
+        <div class="page-content">
+
+            @Body
+
+        </div>
+        @if (ShowcControl)
+        {
+            <NavMenu></NavMenu>
+        }
+
+
+    </div>
+</CascadingValue>
+
+@code
+{
+    public bool IsShowMenu = false;
+    public bool ShowcControl = true;
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await jsruntime.InvokeVoidAsync("initMenu");
+        }
+        await base.OnAfterRenderAsync(firstRender);
+    }
+}

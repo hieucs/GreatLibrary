@@ -1,0 +1,3345 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\GreatLibrary.styles.css",
+      "PackagePath": "staticwebassets\\GreatLibrary.styles.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\app\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\app\\icons\\favicon.ico"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\app\\icons\\icon-128x128.png",
+      "PackagePath": "staticwebassets\\app\\icons\\icon-128x128.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\app\\icons\\icon-144x144.png",
+      "PackagePath": "staticwebassets\\app\\icons\\icon-144x144.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\app\\icons\\icon-152x152.png",
+      "PackagePath": "staticwebassets\\app\\icons\\icon-152x152.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\app\\icons\\icon-192x192.png",
+      "PackagePath": "staticwebassets\\app\\icons\\icon-192x192.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\app\\icons\\icon-384x384.png",
+      "PackagePath": "staticwebassets\\app\\icons\\icon-384x384.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\app\\icons\\icon-512x512.png",
+      "PackagePath": "staticwebassets\\app\\icons\\icon-512x512.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\app\\icons\\icon-72x72.png",
+      "PackagePath": "staticwebassets\\app\\icons\\icon-72x72.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\app\\icons\\icon-96x96.png",
+      "PackagePath": "staticwebassets\\app\\icons\\icon-96x96.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\app\\splash\\iphoneplus.png",
+      "PackagePath": "staticwebassets\\app\\splash\\iphoneplus.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\app\\splash\\iphoneregular.png",
+      "PackagePath": "staticwebassets\\app\\splash\\iphoneregular.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\app\\splash\\iphonexr.png",
+      "PackagePath": "staticwebassets\\app\\splash\\iphonexr.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\app\\splash\\iphonexs.png",
+      "PackagePath": "staticwebassets\\app\\splash\\iphonexs.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\app\\splash\\iphonexsmax.png",
+      "PackagePath": "staticwebassets\\app\\splash\\iphonexsmax.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\css\\all.css",
+      "PackagePath": "staticwebassets\\fonts5\\css\\all.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\css\\brands.css",
+      "PackagePath": "staticwebassets\\fonts5\\css\\brands.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\fonts5\\css\\brands.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\fonts5\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\fonts5\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\fonts5\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\css\\regular.css",
+      "PackagePath": "staticwebassets\\fonts5\\css\\regular.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\fonts5\\css\\regular.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\css\\solid.css",
+      "PackagePath": "staticwebassets\\fonts5\\css\\solid.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\fonts5\\css\\solid.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\fonts5\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\fonts5\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\fonts5\\css\\v4-shims.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\fonts5\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\fonts5\\sprites\\brands.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\fonts5\\sprites\\regular.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\fonts5\\sprites\\solid.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\fonts5\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\fonts5\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts5\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts5\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts5\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\fonts5\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\fonts5\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts5\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts5\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts5\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\fonts5\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\fonts5\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts5\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts5\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts5\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts5\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\all.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\all.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\brands.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\brands.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\brands.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\fontawesome-all.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\fontawesome-all.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\regular.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\regular.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\regular.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\solid.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\solid.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\solid.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\v4-shims.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\fonts\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\fonts\\sprites\\brands.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\sprites\\regular.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\fonts\\sprites\\solid.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\fonts\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\fonts\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\ad.png",
+      "PackagePath": "staticwebassets\\images\\ad.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\ath.png",
+      "PackagePath": "staticwebassets\\images\\ath.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\10l.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\10l.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\10m.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\10m.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\10s.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\10s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\10xs.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\10xs.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\11l.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\11l.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\11m.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\11m.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\11s.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\11s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\11xs.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\11xs.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\12l.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\12l.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\12m.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\12m.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\12s.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\12s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\12xs.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\12xs.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\13l.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\13l.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\13m.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\13m.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\13s.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\13s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\13xs.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\13xs.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\14l.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\14l.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\14m.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\14m.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\14s.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\14s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\14xs.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\14xs.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\1l.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\1l.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\1m.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\1m.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\1s.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\1s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\1xs.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\1xs.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\2l.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\2l.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\2m.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\2m.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\2s.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\2s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\2xs.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\2xs.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\3l.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\3l.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\3m.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\3m.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\3s.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\3s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\3xs.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\3xs.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\4l.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\4l.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\4m.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\4m.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\4s.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\4s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\4xs.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\4xs.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\5l.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\5l.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\5m.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\5m.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\5s.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\5s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\5xs.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\5xs.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\6l.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\6l.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\6m.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\6m.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\6s.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\6s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\6xs.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\6xs.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\7l.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\7l.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\7m.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\7m.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\7s.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\7s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\7xs.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\7xs.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\8l.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\8l.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\8m.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\8m.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\8s.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\8s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\8xs.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\8xs.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\9l.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\9l.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\9m.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\9m.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\9s.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\9s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\avatars\\9xs.png",
+      "PackagePath": "staticwebassets\\images\\avatars\\9xs.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\careers\\1.png",
+      "PackagePath": "staticwebassets\\images\\careers\\1.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\careers\\2.png",
+      "PackagePath": "staticwebassets\\images\\careers\\2.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\careers\\3.png",
+      "PackagePath": "staticwebassets\\images\\careers\\3.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\careers\\4.png",
+      "PackagePath": "staticwebassets\\images\\careers\\4.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\close.png",
+      "PackagePath": "staticwebassets\\images\\close.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\demo_img.png",
+      "PackagePath": "staticwebassets\\images\\demo_img.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\empty.png",
+      "PackagePath": "staticwebassets\\images\\empty.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\flags\\Germany.png",
+      "PackagePath": "staticwebassets\\images\\flags\\Germany.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\flags\\India.png",
+      "PackagePath": "staticwebassets\\images\\flags\\India.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\flags\\Italy.png",
+      "PackagePath": "staticwebassets\\images\\flags\\Italy.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\flags\\Spain.png",
+      "PackagePath": "staticwebassets\\images\\flags\\Spain.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\flags\\United-States.png",
+      "PackagePath": "staticwebassets\\images\\flags\\United-States.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\flags\\__all_flags.zip",
+      "PackagePath": "staticwebassets\\images\\flags\\__all_flags.zip"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\pizza.png",
+      "PackagePath": "staticwebassets\\images\\food\\pizza.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\pizza\\pizza-1.png",
+      "PackagePath": "staticwebassets\\images\\food\\pizza\\pizza-1.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\pizza\\pizza-2.png",
+      "PackagePath": "staticwebassets\\images\\food\\pizza\\pizza-2.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\pizza\\pizza-3.png",
+      "PackagePath": "staticwebassets\\images\\food\\pizza\\pizza-3.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\pizza\\pizza-4.png",
+      "PackagePath": "staticwebassets\\images\\food\\pizza\\pizza-4.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\pizza\\pizza-5.png",
+      "PackagePath": "staticwebassets\\images\\food\\pizza\\pizza-5.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\pizza\\pizza-6.png",
+      "PackagePath": "staticwebassets\\images\\food\\pizza\\pizza-6.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\regular\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\regular\\1.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\regular\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\regular\\10.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\regular\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\regular\\2.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\regular\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\regular\\3.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\regular\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\regular\\4.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\regular\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\regular\\5.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\regular\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\regular\\6.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\regular\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\regular\\7.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\regular\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\regular\\8.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\regular\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\regular\\9.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\small\\10s.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\small\\10s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\small\\1s.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\small\\1s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\small\\2s.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\small\\2s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\small\\3s.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\small\\3s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\small\\4s.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\small\\4s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\small\\5s.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\small\\5s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\small\\6s.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\small\\6s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\small\\7s.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\small\\7s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\small\\8s.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\small\\8s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\small\\9s.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\small\\9s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\sweets\\sweet-1.png",
+      "PackagePath": "staticwebassets\\images\\food\\sweets\\sweet-1.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\sweets\\sweet-2.png",
+      "PackagePath": "staticwebassets\\images\\food\\sweets\\sweet-2.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\sweets\\sweet-3.png",
+      "PackagePath": "staticwebassets\\images\\food\\sweets\\sweet-3.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\sweets\\sweet-4.png",
+      "PackagePath": "staticwebassets\\images\\food\\sweets\\sweet-4.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\wide\\10w.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\wide\\10w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\wide\\1w.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\wide\\1w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\wide\\2w.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\wide\\2w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\wide\\3w.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\wide\\3w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\wide\\4w.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\wide\\4w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\wide\\5w.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\wide\\5w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\wide\\6w.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\wide\\6w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\wide\\7w.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\wide\\7w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\wide\\8w.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\wide\\8w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\food\\wide\\9w.jpg",
+      "PackagePath": "staticwebassets\\images\\food\\wide\\9w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\framework\\AjaxLoader.gif",
+      "PackagePath": "staticwebassets\\images\\framework\\AjaxLoader.gif"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\framework\\activity.png",
+      "PackagePath": "staticwebassets\\images\\framework\\activity.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\framework\\deco-slash.png",
+      "PackagePath": "staticwebassets\\images\\framework\\deco-slash.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\framework\\deco-zig.png",
+      "PackagePath": "staticwebassets\\images\\framework\\deco-zig.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\framework\\grabbing.png",
+      "PackagePath": "staticwebassets\\images\\framework\\grabbing.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\framework\\icons.png",
+      "PackagePath": "staticwebassets\\images\\framework\\icons.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\framework\\icons.svg",
+      "PackagePath": "staticwebassets\\images\\framework\\icons.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\framework\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\framework\\loader.gif"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\framework\\page-loader.gif",
+      "PackagePath": "staticwebassets\\images\\framework\\page-loader.gif"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\framework\\pattern_1.png",
+      "PackagePath": "staticwebassets\\images\\framework\\pattern_1.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\framework\\pay-1.png",
+      "PackagePath": "staticwebassets\\images\\framework\\pay-1.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\framework\\pay-2.png",
+      "PackagePath": "staticwebassets\\images\\framework\\pay-2.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\framework\\pay-3.png",
+      "PackagePath": "staticwebassets\\images\\framework\\pay-3.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\framework\\pay-4.png",
+      "PackagePath": "staticwebassets\\images\\framework\\pay-4.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\framework\\pay-5.png",
+      "PackagePath": "staticwebassets\\images\\framework\\pay-5.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\framework\\preload.gif",
+      "PackagePath": "staticwebassets\\images\\framework\\preload.gif"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\framework\\puff.svg",
+      "PackagePath": "staticwebassets\\images\\framework\\puff.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\10l.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\10l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\10m.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\10m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\10t.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\10t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\11l.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\11l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\11m.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\11m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\11t.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\11t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\12l.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\12l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\12m.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\12m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\12t.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\12t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\13l.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\13l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\13m.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\13m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\13t.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\13t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\14l.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\14l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\14m.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\14m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\14t.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\14t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\15l.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\15l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\15m.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\15m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\15t.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\15t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\1l.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\1l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\1m.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\1m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\1t.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\1t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\2l.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\2l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\2m.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\2m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\2t.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\2t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\3l.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\3l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\3m.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\3m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\3t.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\3t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\4l.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\4l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\4m.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\4m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\4t.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\4t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\5l.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\5l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\5m.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\5m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\5t.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\5t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\6l.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\6l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\6m.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\6m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\6t.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\6t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\7l.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\7l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\7m.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\7m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\7t.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\7t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\8l.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\8l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\8m.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\8m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\8t.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\8t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\9l.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\9l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\9m.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\9m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\health\\9t.jpg",
+      "PackagePath": "staticwebassets\\images\\health\\9t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\1.png",
+      "PackagePath": "staticwebassets\\images\\icons\\1.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\10.png",
+      "PackagePath": "staticwebassets\\images\\icons\\10.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\11.png",
+      "PackagePath": "staticwebassets\\images\\icons\\11.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\12.png",
+      "PackagePath": "staticwebassets\\images\\icons\\12.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\13.png",
+      "PackagePath": "staticwebassets\\images\\icons\\13.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\14.png",
+      "PackagePath": "staticwebassets\\images\\icons\\14.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\15.png",
+      "PackagePath": "staticwebassets\\images\\icons\\15.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\16.png",
+      "PackagePath": "staticwebassets\\images\\icons\\16.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\17.png",
+      "PackagePath": "staticwebassets\\images\\icons\\17.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\18.png",
+      "PackagePath": "staticwebassets\\images\\icons\\18.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\19.png",
+      "PackagePath": "staticwebassets\\images\\icons\\19.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\2.png",
+      "PackagePath": "staticwebassets\\images\\icons\\2.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\3.png",
+      "PackagePath": "staticwebassets\\images\\icons\\3.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\4.png",
+      "PackagePath": "staticwebassets\\images\\icons\\4.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\5.png",
+      "PackagePath": "staticwebassets\\images\\icons\\5.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\6.png",
+      "PackagePath": "staticwebassets\\images\\icons\\6.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\7.png",
+      "PackagePath": "staticwebassets\\images\\icons\\7.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\8.png",
+      "PackagePath": "staticwebassets\\images\\icons\\8.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\icons\\9.png",
+      "PackagePath": "staticwebassets\\images\\icons\\9.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\menu-img.png",
+      "PackagePath": "staticwebassets\\images\\menu-img.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\menu2-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\menu2-bg.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\10l.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\10l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\10m.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\10m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\10s.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\10s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\11l.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\11l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\11m.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\11m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\11s.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\11s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\12l.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\12l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\12m.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\12m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\12s.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\12s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\13l.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\13l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\13m.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\13m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\13s.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\13s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\1l.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\1l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\1m.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\1m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\1s.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\1s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\2l.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\2l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\2m.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\2m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\2s.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\2s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\3l.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\3l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\3m.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\3m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\3s.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\3s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\4l.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\4l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\4m.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\4m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\4s.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\4s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\5l.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\5l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\5m.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\5m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\5s.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\5s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\6l.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\6l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\6m.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\6m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\6s.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\6s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\7l.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\7l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\7m.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\7m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\7s.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\7s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\8l.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\8l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\8m.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\8m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\8s.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\8s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\9l.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\9l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\9m.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\9m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pets\\9s.jpg",
+      "PackagePath": "staticwebassets\\images\\pets\\9s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\0.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\0.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\0l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\0l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\0t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\0t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\1.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\10.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\10l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\10l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\10lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\10lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\10m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\10m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\10s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\10s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\10t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\10t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\10w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\10w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\11.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\11l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\11l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\11lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\11lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\11m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\11m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\11s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\11s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\11t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\11t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\11w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\11w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\12.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\12l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\12l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\12lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\12lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\12m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\12m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\12s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\12s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\12t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\12t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\12w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\12w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\13.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\13l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\13l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\13lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\13lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\13m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\13m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\13s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\13s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\13t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\13t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\13w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\13w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\14.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\14.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\14l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\14l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\14lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\14lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\14m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\14m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\14s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\14s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\14t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\14t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\14w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\14w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\15.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\15.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\15l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\15l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\15lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\15lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\15m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\15m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\15s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\15s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\15t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\15t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\15w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\15w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\16.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\16.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\16l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\16l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\16lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\16lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\16m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\16m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\16s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\16s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\16t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\16t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\16w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\16w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\17.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\17.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\17l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\17l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\17lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\17lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\17m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\17m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\17s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\17s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\17t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\17t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\17w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\17w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\18.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\18.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\18l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\18l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\18lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\18lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\18m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\18m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\18s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\18s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\18t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\18t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\18w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\18w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\19.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\19.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\19l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\19l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\19lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\19lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\19m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\19m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\19s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\19s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\19t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\19t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\19w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\19w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\1l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\1l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\1lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\1lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\1m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\1m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\1s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\1s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\1t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\1t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\1w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\1w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\2.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\20.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\20.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\20l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\20l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\20lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\20lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\20m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\20m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\20s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\20s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\20t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\20t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\20w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\20w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\21.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\21.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\21l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\21l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\21lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\21lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\21m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\21m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\21s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\21s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\21t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\21t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\21w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\21w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\22.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\22.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\22l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\22l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\22lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\22lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\22m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\22m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\22s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\22s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\22t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\22t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\22w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\22w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\23.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\23.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\23l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\23l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\23lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\23lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\23m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\23m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\23s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\23s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\23t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\23t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\23w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\23w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\24.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\24.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\24l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\24l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\24lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\24lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\24m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\24m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\24s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\24s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\24t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\24t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\24w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\24w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\25.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\25.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\25l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\25l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\25lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\25lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\25m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\25m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\25s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\25s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\25t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\25t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\25w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\25w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\26.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\26.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\26l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\26l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\26lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\26lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\26m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\26m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\26s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\26s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\26t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\26t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\26w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\26w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\27.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\27.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\27l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\27l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\27lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\27lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\27m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\27m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\27s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\27s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\27t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\27t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\27w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\27w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\28.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\28.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\28l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\28l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\28lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\28lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\28m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\28m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\28s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\28s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\28t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\28t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\28w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\28w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\29.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\29.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\29l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\29l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\29lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\29lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\29m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\29m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\29s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\29s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\29t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\29t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\29w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\29w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\2l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\2l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\2lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\2lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\2m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\2m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\2s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\2s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\2t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\2t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\2w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\2w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\3.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\30.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\30.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\30l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\30l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\30lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\30lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\30m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\30m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\30s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\30s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\30t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\30t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\30w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\30w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\31.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\31.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\31l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\31l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\31lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\31lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\31m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\31m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\31s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\31s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\31t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\31t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\31w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\31w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\32.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\32.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\32l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\32l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\32lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\32lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\32m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\32m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\32s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\32s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\32t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\32t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\32w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\32w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\33.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\33.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\33l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\33l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\33lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\33lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\33m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\33m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\33s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\33s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\33t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\33t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\33w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\33w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\34.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\34.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\34l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\34l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\34lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\34lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\34m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\34m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\34s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\34s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\34t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\34t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\34w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\34w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\3l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\3l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\3lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\3lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\3m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\3m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\3s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\3s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\3t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\3t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\3w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\3w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\4.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\4l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\4l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\4lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\4lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\4m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\4m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\4s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\4s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\4t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\4t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\4w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\4w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\5.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\5l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\5l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\5lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\5lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\5m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\5m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\5s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\5s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\5t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\5t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\5w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\5w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\6.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\6l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\6l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\6lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\6lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\6m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\6m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\6s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\6s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\6t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\6t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\6w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\6w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\7.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\7l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\7l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\7lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\7lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\7m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\7m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\7s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\7s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\7t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\7t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\7w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\7w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\8.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\8l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\8l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\8lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\8lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\8m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\8m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\8s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\8s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\8t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\8t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\8w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\8w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\9.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\9l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\9l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\9lq.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\9lq.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\9m.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\9m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\9s.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\9s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\9t.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\9t.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\9w.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\9w.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\_bg-infinite.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\_bg-infinite.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\faces\\1s.png",
+      "PackagePath": "staticwebassets\\images\\pictures\\faces\\1s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\faces\\1small.png",
+      "PackagePath": "staticwebassets\\images\\pictures\\faces\\1small.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\faces\\2s.png",
+      "PackagePath": "staticwebassets\\images\\pictures\\faces\\2s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\faces\\2small.png",
+      "PackagePath": "staticwebassets\\images\\pictures\\faces\\2small.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\faces\\3s.png",
+      "PackagePath": "staticwebassets\\images\\pictures\\faces\\3s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\faces\\3small.png",
+      "PackagePath": "staticwebassets\\images\\pictures\\faces\\3small.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\faces\\4s.png",
+      "PackagePath": "staticwebassets\\images\\pictures\\faces\\4s.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\faces\\4small.png",
+      "PackagePath": "staticwebassets\\images\\pictures\\faces\\4small.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\isolated\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\isolated\\1.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\isolated\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\isolated\\10.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\isolated\\10l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\isolated\\10l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\isolated\\1l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\isolated\\1l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\isolated\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\isolated\\2.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\isolated\\2l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\isolated\\2l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\isolated\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\isolated\\3.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\isolated\\3l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\isolated\\3l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\isolated\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\isolated\\4.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\isolated\\4l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\isolated\\4l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\isolated\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\isolated\\5.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\isolated\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\isolated\\6.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\isolated\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\isolated\\7.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\isolated\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\isolated\\8.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\isolated\\8l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\isolated\\8l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\isolated\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\isolated\\9.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\pictures\\isolated\\9l.jpg",
+      "PackagePath": "staticwebassets\\images\\pictures\\isolated\\9l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\preload-logo.png",
+      "PackagePath": "staticwebassets\\images\\preload-logo.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\splash\\Thumbs.db",
+      "PackagePath": "staticwebassets\\images\\splash\\Thumbs.db"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\splash\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\images\\splash\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\splash\\apple-touch-icon-114x114.png",
+      "PackagePath": "staticwebassets\\images\\splash\\apple-touch-icon-114x114.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\splash\\apple-touch-icon-120x120.png",
+      "PackagePath": "staticwebassets\\images\\splash\\apple-touch-icon-120x120.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\splash\\apple-touch-icon-144x144.png",
+      "PackagePath": "staticwebassets\\images\\splash\\apple-touch-icon-144x144.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\splash\\apple-touch-icon-152x152.png",
+      "PackagePath": "staticwebassets\\images\\splash\\apple-touch-icon-152x152.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\splash\\apple-touch-icon-180x180.png",
+      "PackagePath": "staticwebassets\\images\\splash\\apple-touch-icon-180x180.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\splash\\apple-touch-icon-196x196.png",
+      "PackagePath": "staticwebassets\\images\\splash\\apple-touch-icon-196x196.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\splash\\apple-touch-icon-57x57.png",
+      "PackagePath": "staticwebassets\\images\\splash\\apple-touch-icon-57x57.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\splash\\apple-touch-icon-60x60.png",
+      "PackagePath": "staticwebassets\\images\\splash\\apple-touch-icon-60x60.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\splash\\apple-touch-icon-72x72.png",
+      "PackagePath": "staticwebassets\\images\\splash\\apple-touch-icon-72x72.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\splash\\apple-touch-icon-76x76.png",
+      "PackagePath": "staticwebassets\\images\\splash\\apple-touch-icon-76x76.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\splash\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\images\\splash\\favicon-16x16.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\splash\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\images\\splash\\favicon-32x32.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\splash\\favicon-96x96.png",
+      "PackagePath": "staticwebassets\\images\\splash\\favicon-96x96.png"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\splash\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\splash\\favicon.ico"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\10l.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\10l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\10m.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\10m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\10s.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\10s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\1l.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\1l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\1m.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\1m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\1s.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\1s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\2l.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\2l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\2m.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\2m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\2s.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\2s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\3l.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\3l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\3m.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\3m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\3s.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\3s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\4l.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\4l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\4m.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\4m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\4s.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\4s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\5l.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\5l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\5m.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\5m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\5s.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\5s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\6l.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\6l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\6m.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\6m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\6s.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\6s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\7l.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\7l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\7m.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\7m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\7s.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\7s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\8l.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\8l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\8m.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\8m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\8s.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\8s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\9l.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\9l.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\9m.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\9m.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\travel\\9s.jpg",
+      "PackagePath": "staticwebassets\\images\\travel\\9s.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\undraw\\1.svg",
+      "PackagePath": "staticwebassets\\images\\undraw\\1.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\undraw\\2.svg",
+      "PackagePath": "staticwebassets\\images\\undraw\\2.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\undraw\\3.svg",
+      "PackagePath": "staticwebassets\\images\\undraw\\3.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\undraw\\4.svg",
+      "PackagePath": "staticwebassets\\images\\undraw\\4.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\undraw\\5.svg",
+      "PackagePath": "staticwebassets\\images\\undraw\\5.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\undraw\\6.svg",
+      "PackagePath": "staticwebassets\\images\\undraw\\6.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\undraw\\7.svg",
+      "PackagePath": "staticwebassets\\images\\undraw\\7.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\undraw\\_license_and_link.rtf",
+      "PackagePath": "staticwebassets\\images\\undraw\\_license_and_link.rtf"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\undraw\\a.svg",
+      "PackagePath": "staticwebassets\\images\\undraw\\a.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\undraw\\b.svg",
+      "PackagePath": "staticwebassets\\images\\undraw\\b.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\undraw\\c.svg",
+      "PackagePath": "staticwebassets\\images\\undraw\\c.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\undraw\\d.svg",
+      "PackagePath": "staticwebassets\\images\\undraw\\d.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\undraw\\e.svg",
+      "PackagePath": "staticwebassets\\images\\undraw\\e.svg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\images\\walk.jpg",
+      "PackagePath": "staticwebassets\\images\\walk.jpg"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\plugins\\charts\\charts-call-charts.js",
+      "PackagePath": "staticwebassets\\plugins\\charts\\charts-call-charts.js"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\plugins\\charts\\charts-call-dashboard.js",
+      "PackagePath": "staticwebassets\\plugins\\charts\\charts-call-dashboard.js"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\plugins\\charts\\charts-call-graphs.js",
+      "PackagePath": "staticwebassets\\plugins\\charts\\charts-call-graphs.js"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\plugins\\charts\\charts-call-wallet.js",
+      "PackagePath": "staticwebassets\\plugins\\charts\\charts-call-wallet.js"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\plugins\\charts\\charts.js",
+      "PackagePath": "staticwebassets\\plugins\\charts\\charts.js"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\plugins\\countdown\\countdown.js",
+      "PackagePath": "staticwebassets\\plugins\\countdown\\countdown.js"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\plugins\\embedly\\embedly.js",
+      "PackagePath": "staticwebassets\\plugins\\embedly\\embedly.js"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\plugins\\filterizr\\filterizr-call.js",
+      "PackagePath": "staticwebassets\\plugins\\filterizr\\filterizr-call.js"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\plugins\\filterizr\\filterizr.css",
+      "PackagePath": "staticwebassets\\plugins\\filterizr\\filterizr.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\plugins\\filterizr\\filterizr.js",
+      "PackagePath": "staticwebassets\\plugins\\filterizr\\filterizr.js"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\plugins\\galleryViews\\gallery-views.js",
+      "PackagePath": "staticwebassets\\plugins\\galleryViews\\gallery-views.js"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\plugins\\glightbox\\glightbox-call.js",
+      "PackagePath": "staticwebassets\\plugins\\glightbox\\glightbox-call.js"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\plugins\\glightbox\\glightbox.css",
+      "PackagePath": "staticwebassets\\plugins\\glightbox\\glightbox.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\plugins\\glightbox\\glightbox.js",
+      "PackagePath": "staticwebassets\\plugins\\glightbox\\glightbox.js"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scripts\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\scripts\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scripts\\custom.js",
+      "PackagePath": "staticwebassets\\scripts\\custom.js"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\appkit\\_colors.scss",
+      "PackagePath": "staticwebassets\\scss\\appkit\\_colors.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\appkit\\_dark.scss",
+      "PackagePath": "staticwebassets\\scss\\appkit\\_dark.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\appkit\\_footer-bar.scss",
+      "PackagePath": "staticwebassets\\scss\\appkit\\_footer-bar.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\appkit\\_header-bar.scss",
+      "PackagePath": "staticwebassets\\scss\\appkit\\_header-bar.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\appkit\\_logos.scss",
+      "PackagePath": "staticwebassets\\scss\\appkit\\_logos.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\appkit\\_menu.scss",
+      "PackagePath": "staticwebassets\\scss\\appkit\\_menu.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\appkit\\_structure.scss",
+      "PackagePath": "staticwebassets\\scss\\appkit\\_structure.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\appkit\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\appkit\\_typography.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\appkit\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\appkit\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\appkit\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\appkit\\_variables.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_maps.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_maps.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_add-to-home.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_add-to-home.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_ads.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_ads.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_alerts.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_alerts.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_back-to-top.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_back-to-top.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_carousels.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_carousels.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_checkradio.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_checkradio.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_chips.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_chips.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_dividers.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_dividers.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_footer.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_iframes.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_iframes.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_inputs.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_inputs.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_notifications.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_notifications.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_offline.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_offline.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_preloader.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_preloader.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_pricing.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_pricing.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_range.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_range.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_search.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_search.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_snackbars.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_snackbars.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_switches.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_switches.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_tabs.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_tabs.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_working-hours.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_working-hours.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\components\\_zdemo.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_zdemo.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\highlights\\highlight_aqua.scss",
+      "PackagePath": "staticwebassets\\scss\\highlights\\highlight_aqua.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\highlights\\highlight_blue.scss",
+      "PackagePath": "staticwebassets\\scss\\highlights\\highlight_blue.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\highlights\\highlight_brown.scss",
+      "PackagePath": "staticwebassets\\scss\\highlights\\highlight_brown.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\highlights\\highlight_dark.scss",
+      "PackagePath": "staticwebassets\\scss\\highlights\\highlight_dark.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\highlights\\highlight_grass.scss",
+      "PackagePath": "staticwebassets\\scss\\highlights\\highlight_grass.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\highlights\\highlight_gray.scss",
+      "PackagePath": "staticwebassets\\scss\\highlights\\highlight_gray.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\highlights\\highlight_green.scss",
+      "PackagePath": "staticwebassets\\scss\\highlights\\highlight_green.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\highlights\\highlight_magenta.scss",
+      "PackagePath": "staticwebassets\\scss\\highlights\\highlight_magenta.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\highlights\\highlight_mint.scss",
+      "PackagePath": "staticwebassets\\scss\\highlights\\highlight_mint.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\highlights\\highlight_night.scss",
+      "PackagePath": "staticwebassets\\scss\\highlights\\highlight_night.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\highlights\\highlight_orange.scss",
+      "PackagePath": "staticwebassets\\scss\\highlights\\highlight_orange.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\highlights\\highlight_pink2.scss",
+      "PackagePath": "staticwebassets\\scss\\highlights\\highlight_pink2.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\highlights\\highlight_red.scss",
+      "PackagePath": "staticwebassets\\scss\\highlights\\highlight_red.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\highlights\\highlight_sunny.scss",
+      "PackagePath": "staticwebassets\\scss\\highlights\\highlight_sunny.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\highlights\\highlight_teal.scss",
+      "PackagePath": "staticwebassets\\scss\\highlights\\highlight_teal.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\highlights\\highlight_yellow.scss",
+      "PackagePath": "staticwebassets\\scss\\highlights\\highlight_yellow.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\pages\\_calendar.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_calendar.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\pages\\_chat.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_chat.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\pages\\_contact.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_contact.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\pages\\_interests.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_interests.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\pages\\_map.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_map.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\pages\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_media.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\pages\\_timeline.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\pages\\_vcard.scss",
+      "PackagePath": "staticwebassets\\scss\\pages\\_vcard.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\plugins\\_splide.scss",
+      "PackagePath": "staticwebassets\\scss\\plugins\\_splide.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\bootstrap.css",
+      "PackagePath": "staticwebassets\\styles\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\highlights\\highlight_aqua.css",
+      "PackagePath": "staticwebassets\\styles\\highlights\\highlight_aqua.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\highlights\\highlight_blue.css",
+      "PackagePath": "staticwebassets\\styles\\highlights\\highlight_blue.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\highlights\\highlight_brown.css",
+      "PackagePath": "staticwebassets\\styles\\highlights\\highlight_brown.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\highlights\\highlight_dark.css",
+      "PackagePath": "staticwebassets\\styles\\highlights\\highlight_dark.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\highlights\\highlight_grass.css",
+      "PackagePath": "staticwebassets\\styles\\highlights\\highlight_grass.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\highlights\\highlight_gray.css",
+      "PackagePath": "staticwebassets\\styles\\highlights\\highlight_gray.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\highlights\\highlight_green.css",
+      "PackagePath": "staticwebassets\\styles\\highlights\\highlight_green.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\highlights\\highlight_magenta.css",
+      "PackagePath": "staticwebassets\\styles\\highlights\\highlight_magenta.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\highlights\\highlight_mint.css",
+      "PackagePath": "staticwebassets\\styles\\highlights\\highlight_mint.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\highlights\\highlight_night.css",
+      "PackagePath": "staticwebassets\\styles\\highlights\\highlight_night.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\highlights\\highlight_orange.css",
+      "PackagePath": "staticwebassets\\styles\\highlights\\highlight_orange.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\highlights\\highlight_pink2.css",
+      "PackagePath": "staticwebassets\\styles\\highlights\\highlight_pink2.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\highlights\\highlight_red.css",
+      "PackagePath": "staticwebassets\\styles\\highlights\\highlight_red.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\highlights\\highlight_sunny.css",
+      "PackagePath": "staticwebassets\\styles\\highlights\\highlight_sunny.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\highlights\\highlight_teal.css",
+      "PackagePath": "staticwebassets\\styles\\highlights\\highlight_teal.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\highlights\\highlight_yellow.css",
+      "PackagePath": "staticwebassets\\styles\\highlights\\highlight_yellow.css"
+    },
+    {
+      "Id": "D:\\My Project\\GreatLibrary\\wwwroot\\styles\\style.css",
+      "PackagePath": "staticwebassets\\styles\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.GreatLibrary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.GreatLibrary.props",
+      "PackagePath": "build\\GreatLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.GreatLibrary.props",
+      "PackagePath": "buildMultiTargeting\\GreatLibrary.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.GreatLibrary.props",
+      "PackagePath": "buildTransitive\\GreatLibrary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,92 @@
+﻿@page "/detailread/{ID}/{chapterID}"
+@layout LayoutRead
+@using GreatLibrary.Components.Layout
+@using GreatLibrary.Data
+@inject IJSRuntime jsruntime
+
+<div class="card card-style ms-0 me-0 rounded-0" style="height:@height.ToString()px; overflow:auto" id="pagecontent" onscroll="myFunction()">
+    <div class="content" id="contentdetail">
+        <h2>@ChapterName</h2>
+        <p>
+            @(((MarkupString)@Detail))
+        </p>
+    </div>
+</div>
+<script>
+    window.onscroll = function () { myFunction() };
+
+    function myFunction() {
+        const elementparent = document.getElementById("pagecontent");
+        DotNet.invokeMethodAsync('GreatLibrary', 'HandleScroll', elementparent.scrollTop);
+        // if (element.scrollTop + 150 > element.scrollHeight)
+        // // if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight)
+        // {
+        //     DotNet.invokeMethodAsync('GreatLibrary', 'HandleScroll', element.scrollTop);
+        // }
+    }
+    function getHeight() {
+        return window.innerHeight;
+    }
+</script>
+@code {
+    [Parameter]
+    public string chapterID { get; set; }
+    [Parameter]
+    public string ID { get; set; }
+
+    [CascadingParameter]
+    public MainLayout mainLayout { get; set; }
+
+    public string ChapterName { get; set; }
+    public string TitleTruyen { get; set; }
+    public string Alias { get; set; }
+    public string Detail { get; set; }
+    public string IDTruyen { get; set; }
+    public List<Chapter> chapters { get; set; }
+    public string PageChapter { get; set; }
+    public string TotalchapterPageCount { get; set; }
+    DB.API aPi = new DB.API();
+    int height = 0;
+
+
+    [JSInvokable]
+    public static void HandleScroll(double scrollheh)
+    {
+        Console.WriteLine("-----: " + scrollheh.ToString());
+        
+    }
+    private async void NextPage()
+    {
+        Chapter chap = await aPi.ChapterGet(new ChapterParamGet { ID = ID, ChapterID = "1" });
+        ChapterName = chap.Name;
+        Detail = chap.Detail;
+        TitleTruyen = chap.TitleTruyen;
+        Alias = chap.Alias;
+        IDTruyen = ID;
+        PageChapter = "1";
+        TotalchapterPageCount = chap.TotalchapterPageCount;
+    }
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            height = await jsruntime.InvokeAsync<int>("getHeight");
+            await InvokeAsync(StateHasChanged);
+        }
+        await base.OnAfterRenderAsync(firstRender);
+    }
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        Chapter chap = await aPi.ChapterGet(new ChapterParamGet { ID = ID, ChapterID = chapterID });
+        ChapterName = chap.Name;
+        Detail = chap.Detail;
+        TitleTruyen = chap.TitleTruyen;
+        Alias = chap.Alias;
+        IDTruyen = ID;
+        PageChapter = "1";
+        TotalchapterPageCount = chap.TotalchapterPageCount;
+        await base.OnInitializedAsync();
+    }
+}

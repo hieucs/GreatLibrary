@@ -1,0 +1,38 @@
+﻿
+<div id="menu-main" class="menu menu-box-left"
+     data-menu-width="300"
+     data-menu-effect="menu-parallax">
+    <div class="card rounded-0 bg-6" data-card-height="150" style="height: 150px;">
+        <div class="card-top">
+            <a href="#" class="close-menu float-end me-2 text-center mt-3 icon-40 notch-clear"><i class="fa fa-times color-white"></i></a>
+        </div>
+        <div class="card-bottom">
+            <h1 class="color-white ps-3 mb-n1 font-28">Đại thư viện</h1>
+        </div>
+        <div class="card-overlay bg-gradient"></div>
+    </div>
+    <div class="mt-4"></div>
+    <h6 class="menu-divider">Thể loại</h6>
+    <div class="list-group list-custom-small list-menu">
+        @for (int i = 0; i < menus.Count; i++)
+        {
+            var item = menus[i];
+            <a id="nav-welcome" href="@item.ID">
+                <span>@item.Name</span>
+            </a>
+        }
+        
+       
+    </div>
+   
+</div>
+@code
+{
+    public List<Data.MenuItem> menus;
+    DB.API aPi = new DB.API();
+    protected override async Task OnInitializedAsync()
+    {
+        menus = await aPi.MenuGet();
+        await base.OnInitializedAsync();
+    }
+}

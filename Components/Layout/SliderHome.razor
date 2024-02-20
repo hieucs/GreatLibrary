@@ -1,0 +1,68 @@
+﻿@inject IJSRuntime jsruntime
+<div class="splide single-slider slider-no-arrows visible-slider slider-no-dots" id="single-slider-1">
+    <div class="splide__track">
+        <div class="splide__list">
+            <div class="splide__slide">
+                <div class="card card-style ms-3" style="background-image:url(images/food/regular/1.jpg); height:300px">
+                    <div class="card-top px-3 py-3">
+                        <a href="#" data-menu="menu-heart" class="bg-white rounded-sm icon icon-xs float-end"><i class="fa fa-heart color-red-dark"></i></a>
+                        <a href="#" class="bg-white color-black rounded-sm btn btn-xs float-start font-700 font-12">$12.99</a>
+                    </div>
+                    <div class="card-bottom px-3 py-3">
+                        <h1 class="color-white">The Ham and Bacon<br>Double Cheeseburger</h1>
+                    </div>
+                    <div class="card-overlay bg-gradient opacity-30"></div>
+                    <div class="card-overlay bg-gradient"></div>
+                </div>
+            </div>
+            <div class="splide__slide">
+                <div class="card card-style ms-3" style="background-image:url(images/food/regular/2.jpg);height:300px">
+                    <div class="card-top px-3 py-3">
+                        <a href="#" data-menu="menu-heart" class="bg-white rounded-sm icon icon-xs float-end"><i class="fa fa-heart color-red-dark"></i></a>
+                        <a href="#" class="bg-white color-black rounded-sm btn btn-xs float-start font-700 font-12">$12.99</a>
+                    </div>
+                    <div class="card-bottom px-3 py-3">
+                        <h1 class="color-white">House Special<br>Crusted Pizza</h1>
+                    </div>
+                    <div class="card-overlay bg-gradient opacity-30"></div>
+                    <div class="card-overlay bg-gradient"></div>
+                </div>
+            </div>
+            <div class="splide__slide">
+                <div class="card card-style ms-3" style="background-image:url(images/food/regular/3.jpg);height:300px">
+                    <div class="card-top px-3 py-3">
+                        <a href="#" data-menu="menu-heart" class="bg-white rounded-sm icon icon-xs float-end"><i class="fa fa-heart color-red-dark"></i></a>
+                        <a href="#" class="bg-white color-black rounded-sm btn btn-xs float-start font-700 font-12">$12.99</a>
+                    </div>
+                    <div class="card-bottom px-3 py-3">
+                        <h1 class="color-white">Chocolate Cookies<br>With Wallnut Topping</h1>
+                    </div>
+                    <div class="card-overlay bg-gradient opacity-30"></div>
+                    <div class="card-overlay bg-gradient"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="content mt-0 mb-0">
+    <div class="d-flex">
+        <div class="align-self-center">
+            <h1 class="mb-0 font-18">Our Favorites</h1>
+        </div>
+        <div class="ms-auto align-self-center">
+            <a href="#" class="float-end font-12 font-400">See All</a>
+        </div>
+    </div>
+</div>
+@code
+{
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            await jsruntime.InvokeVoidAsync("SlideInit");
+        }
+        await base.OnAfterRenderAsync(firstRender);
+    }
+}
