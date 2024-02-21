@@ -1,11 +1,15 @@
 ﻿@inherits LayoutComponentBase
-<div id="page">
-    <div class="page-content">
-
-        @Body
-
+<CascadingValue Value="this">
+    <div id="page">
+        <HeaderRead></HeaderRead>
+        <div class="page-content">
+            @Body
+        </div>
     </div>
-</div>
+</CascadingValue>
 @code {
-
+    [Parameter]
+    public string chapterName{ get; set; }
+    [Parameter]
+    public string linkBack { get; set; }
 }

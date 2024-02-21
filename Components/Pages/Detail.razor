@@ -1,9 +1,12 @@
 ﻿@page "/detail/{ID}"
 @inject NavigationManager navigation
 @using GreatLibrary.Data
+@implements IDisposable
+@inject NavigationManager navigationManager
+
 <div class="card card-style mt-4" style="background-image:url(@Story.Item[0].LinkImage); height :400px">
     <div class="card-top mt-3 pb-5 ps-3">
-        <a href="#" data-back-button class="icon icon-s bg-theme rounded-xl float-start me-3"><i class="fa color-theme fa-arrow-left"></i></a>
+        <a href="/" data-back-button class="icon icon-s bg-theme rounded-xl float-start me-3"><i class="fa color-theme fa-arrow-left"></i></a>
         <a href="#" data-menu="menu-share" class="icon icon-s bg-theme rounded-xl float-end me-3"><i class="fa color-theme fa-share-alt"></i></a>
         <a href="#" data-menu="menu-heart" class="icon icon-s bg-theme rounded-xl float-end me-2"><i class="fa color-red-dark fa-bookmark"></i></a>
     </div>
@@ -35,11 +38,8 @@
                 <a href="#" class="btn btn-m btn-full mb-3 rounded-xl text-uppercase font-700 shadow-s bg-teal-light">Lưu</a>
             </div>
             <div class="col-6">
-                <a href="#" @onclick="GoToDetail" class="btn btn-m btn-full mb-3 rounded-xl text-uppercase font-700 shadow-s bg-blue-dark">Đọc</a>
+                <a @onclick="@GoToDetail" class="btn btn-m btn-full mb-3 rounded-xl text-uppercase font-700 shadow-s bg-blue-dark">Đọc</a>
             </div>
-
-
-
         </div>
     </div>
 </div>
@@ -48,6 +48,30 @@
     public string ID { get; set; }
     ListItem Story;
     DB.API aPi = new DB.API();
+    private IDisposable registration;
+    protected override Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (firstRender)
+        {
+            registration = navigationManager.RegisterLocationChangingHandler(LocationChangingHandler);
+        }
+        return base.OnAfterRenderAsync(firstRender);
+    }
+    private ValueTask LocationChangingHandler(LocationChangingContext arg)
+    {
+        Console.WriteLine("Location is changing...");
+        if (arg.TargetLocation == "https://0.0.0.0/")
+        {
+             arg.PreventNavigation();
+            navigationManager.NavigateTo("/");
+        }
+        return ValueTask.CompletedTask;
+    }
+
+    public void Dispose()
+    {
+        registration?.Dispose();
+    }
     protected override async Task OnInitializedAsync()
     {
         Story = await aPi.ItemGet(ID);

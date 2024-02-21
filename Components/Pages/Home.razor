@@ -81,8 +81,9 @@
             @for (int i = 0; i < slider.Count; i++)
             {
                 var item = slider[i];
-
+             
                 <div class="splide__slide" @onclick="@(()=> @GoToDetail(@item.IDTruyen.ToString()))">
+                  
                     <div class="card card-style ms-3" style="background-image:url(@item.LinkImage); height:300px">
                         <div class="card-top px-3 py-3">
                             <a href="#" data-menu="menu-heart" class="bg-white rounded-sm icon icon-xs float-end"><i class="fa fa-heart color-red-dark"></i></a>
