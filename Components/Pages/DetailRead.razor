@@ -6,25 +6,44 @@
 @inject NavigationManager navigationManager
 @inject IJSRuntime jsruntime
 
-<div class="card card-style ms-0 me-0 rounded-0" style="height:@height.ToString()px; overflow:auto" id="pagecontent" onscroll="myFunction()">
+<div class="card card-style ms-0 me-0 rounded-0" style="height:@height.ToString()px; overflow:auto; margin-bottom:-20px">
     <div class="content" id="contentdetail">
-        @* <h2>@ChapterName</h2> *@
+        <div class="divider divider-margins"></div>
+        <h2 id="chaptername">@ChapterName</h2>
         <p>
             @(((MarkupString)@Detail))
         </p>
     </div>
-</div>
-<script>
-    window.onscroll = function () { myFunction() };
+    <div class="divider-icon divider-margins bg-highlight mb-5"><i class="fa font-17 color-highlight bg-theme fa-times"></i></div>
+    <nav aria-label="pagination-demo">
+        <ul class="pagination pagination- justify-content-center">
+            <li class="page-item">
+                <a class="page-link rounded-l line-height-s color-white bg-gray-dark shadow-xl border-0" href="#" tabindex="-1" aria-disabled="true"><i class="fa fa-angle-left"></i></a>
+            </li>
 
-    function myFunction() {
-        const elementparent = document.getElementById("pagecontent");
-        DotNet.invokeMethodAsync('GreatLibrary', 'HandleScroll', elementparent.scrollTop);
-        // if (element.scrollTop + 150 > element.scrollHeight)
-        // // if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight)
-        // {
-        //     DotNet.invokeMethodAsync('GreatLibrary', 'HandleScroll', element.scrollTop);
-        // }
+            <li class="page-item">
+                <a class="page-link rounded-l line-height-s color-white bg-gray-dark shadow-xl border-0" @onclick="NextPage"><i class="fa fa-angle-right"></i></a>
+            </li>
+        </ul>
+    </nav>
+</div>
+
+<script>
+    // window.onscroll = function () { myFunction() };
+
+    // function myFunction() {
+    //     const elementparent = document.getElementById("pagecontent");
+    //     const elementchild = document.getElementById("contentdetail");
+    //     //if (elementparent.scrollTop> elementparent.scrollHeight)
+    //     DotNet.invokeMethodAsync('GreatLibrary', 'HandleScroll', elementchild.scrollHeight);
+    //     // if (element.scrollTop + 150 > element.scrollHeight)
+    //     // // if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight)
+    //     // {
+    //     //     DotNet.invokeMethodAsync('GreatLibrary', 'HandleScroll', element.scrollTop);
+    //     // }
+    // }
+    function scrolltotop() {
+        document.getElementById("chaptername").scroll(0, 0);
     }
     function getHeight() {
         return window.innerHeight;
@@ -51,14 +70,7 @@
     DB.API aPi = new DB.API();
     int height = 0;
 
-
-    [JSInvokable]
-    public static void HandleScroll(double scrollheh)
-    {
-        Console.WriteLine("-----: " + scrollheh.ToString());
-
-    }
-    private async void NextPage()
+    private async Task NextPage()
     {
         Chapter chap = await aPi.ChapterGet(new ChapterParamGet { ID = ID, ChapterID = "1" });
         ChapterName = chap.Name;
@@ -68,24 +80,20 @@
         IDTruyen = ID;
         PageChapter = "1";
         TotalchapterPageCount = chap.TotalchapterPageCount;
+        await jsruntime.InvokeVoidAsync("scrolltotop");
+        await InvokeAsync(StateHasChanged);
+       
+
     }
     protected override async Task OnAfterRenderAsync(bool firstRender)
     {
         if (firstRender)
         {
             height = await jsruntime.InvokeAsync<int>("getHeight");
-            registration = navigationManager.RegisterLocationChangingHandler(LocationChangingHandler);
             await InvokeAsync(StateHasChanged);
         }
         await base.OnAfterRenderAsync(firstRender);
     }
-    // protected override void OnAfterRender(bool firstRender)
-    // {
-    //     if (firstRender)
-    //     {
-    //         registration = navigationManager.RegisterLocationChangingHandler(LocationChangingHandler);
-    //     }
-    // }
     private ValueTask LocationChangingHandler(LocationChangingContext arg)
     {
         Console.WriteLine("Location is changing...");
@@ -96,6 +104,7 @@
         }
         return ValueTask.CompletedTask;
     }
+
 
     public void Dispose()
     {
@@ -111,7 +120,7 @@
         IDTruyen = ID;
         PageChapter = "1";
         TotalchapterPageCount = chap.TotalchapterPageCount;
-        mainLayout.chapterName = chap.Name;
+        // mainLayout.chapterName = chap.Name;
         mainLayout.linkBack = "/detail/" + ID;
         await base.OnInitializedAsync();
     }

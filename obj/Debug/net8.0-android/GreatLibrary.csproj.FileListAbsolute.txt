@@ -1072,5 +1072,5 @@ D:\My Project\GreatLibrary\obj\Debug\net8.0-android\stamp\_ResolveLibraryProject
 D:\My Project\GreatLibrary\obj\Debug\net8.0-android\android\assets\Newtonsoft.Json.dll
 D:\My Project\GreatLibrary\obj\Debug\net8.0-android\android\assets\HtmlAgilityPack.dll
 D:\My Project\GreatLibrary\obj\Debug\net8.0-android\android\assets\HtmlAgilityPack.pdb
-D:\My Project\GreatLibrary\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
 D:\My Project\GreatLibrary\obj\Debug\net8.0-android\GreatLibrary.sourcelink.json
+D:\My Project\GreatLibrary\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll

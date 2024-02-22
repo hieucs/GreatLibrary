@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreatLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+eb75c0fd0a047948f258d36bff44a8c88540a604")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d2e010304e740e2c3cc8ef934c21fb78b3cc0daf")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreatLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreatLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
